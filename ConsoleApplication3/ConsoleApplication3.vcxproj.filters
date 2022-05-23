@@ -18,12 +18,18 @@
     <ClCompile Include="vector_and_circle.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\ComplexCalc\ComplexCalc\complex.cpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="vector.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="circle.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ComplexCalc\ComplexCalc\complex.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

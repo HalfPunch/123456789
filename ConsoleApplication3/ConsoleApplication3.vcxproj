@@ -139,9 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\ComplexCalc\ComplexCalc\complex.cpp" />
     <ClCompile Include="vector_and_circle.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\ComplexCalc\ComplexCalc\complex.h" />
     <ClInclude Include="circle.h" />
     <ClInclude Include="vector.h" />
   </ItemGroup>
